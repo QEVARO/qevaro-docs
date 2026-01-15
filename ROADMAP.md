@@ -1,5 +1,5 @@
-## Status
+## Roadmap (high-level)
 
-QEVARO is currently in active development.
-No public access is available at this time.
-Public launch is planned for late 2026.
+- Phase 1: Core chat + basic structured tasks
+- Phase 2: Expanded capabilities + improved reliability
+- Phase 3: Public launch preparation
